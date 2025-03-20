@@ -4,9 +4,8 @@ Welcome to Your Project Name's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   Figures
 
-   top
 
-
-
-.. include:: top.rst
+.. include:: Figures.rst
